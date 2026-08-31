@@ -68,7 +68,7 @@ export default function SmartIssueTracker() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-5xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent mb-2">
-            Smart Issue Tracker
+            Smart Issue Tracker developed by parikshit
           </h1>
           <p className="text-gray-600">Organize your tasks with style ✨</p>
         </div>
